@@ -1,0 +1,39 @@
+tr:hover {
+  cursor: pointer;
+}
+
+.PeopleTable {
+  border-collapse: collapse;
+}
+
+.Person {
+  color: red;
+}
+
+.Person__male {
+  color: blue;
+}
+
+.Person__female {
+  color: red;
+}
+
+.before1650 {
+  text-decoration: line-through;
+}
+
+.moreThen65 {
+  color: green;
+}
+
+.Trclass {
+  background-color: aqua;
+}
+
+td:hover {
+  cursor: pointer;
+}
+
+.auth {
+  padding-top: 1rem;
+}

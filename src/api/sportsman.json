@@ -1,0 +1,33 @@
+[
+    {
+      "resultRating": "1",
+      "name": "Ivan Ivanenko",
+      "hit": "9",
+      "speedFare": "4"
+    },
+    {
+        "resultRating": "2",
+        "name": "Petro Petrenko",
+        "hit": "9",
+        "speedFare": "3"
+    },
+    {
+        "resultRating": "3",
+        "name": "Mykola Mykolaenko",
+        "hit": "9",
+        "speedFare": "2"
+    },
+    {
+        "resultRating": "4",
+        "name": "Danylo Danylenko",
+        "hit": "8",
+        "speedFare": "2"
+    },
+    {
+        "resultRating": "5",
+        "name": "Vasil Vasilenko",
+        "hit": "6",
+        "speedFare": "2"
+    }
+  ]
+  
