@@ -89,7 +89,7 @@ getSortedPeoples = (peoples, sortField) => {
     <Switch>
       <Route path="/" exact component={Home}/>
       <Route path="/home" exact component={Home}/>
-      <Route path="/peopletable" render={() => (
+      <Route path="/peopletable/" render={() => (
         <>
         <h5>Sportsman table</h5>
         <form className="control"
